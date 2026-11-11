@@ -2070,7 +2070,6 @@ let files = [
 "clsilver",
 "clsimcity64",
 "clsimpsonsarcade",
-"clSINGLEFILE",
 "clsixwaystodie",
 "clskateit",
 "clskateordie",
